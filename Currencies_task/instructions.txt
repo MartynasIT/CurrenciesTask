@@ -1,0 +1,2 @@
+To open the project just download whole folder from git, extract, open intelij and open project > select folder
+The program will ask to enter one mode: date or period. Then currency code is entered and currency rate is displayed 
